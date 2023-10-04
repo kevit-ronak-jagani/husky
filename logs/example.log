@@ -1,0 +1,17 @@
+{"level":"error","message":"First error!"}
+{"level":"error","message":"Second error!"}
+{"level":"error","message":"First error!"}
+{"level":"error","message":"Second error!"}
+{"level":"error","message":"First error!"}
+{"level":"error","message":"Second error!"}
+{"level":"error","message":"First error!"}
+error: SOME LABEL: Oct-04-2023 12:19:56: First error!
+error: SOME LABEL: Oct-04-2023 12:19:56: Second error!
+error: SOME LABEL: Oct-04-2023 12:20:43: First error!
+error: SOME LABEL: Oct-04-2023 12:20:43: Second error!
+error: SOME LABEL: Oct-04-2023 12:23:32: First error!
+error: SOME LABEL: Oct-04-2023 12:23:32: Second error!
+error: SOME LABEL: Oct-04-2023 12:24:25: First error!
+error: SOME LABEL: Oct-04-2023 12:24:25: Second error!
+error: SOME LABEL: Oct-04-2023 12:42:54: First error!
+error: SOME LABEL: Oct-04-2023 12:42:54: Second error!
