@@ -29,7 +29,7 @@ const logger = winston.createLogger(logConfiguration)
 //     level: "info"
 // })
 logger.error('First error!')
-// logger.silly("First error!");
+// logger.error("First error!");
 logger.error('Second error!')
 logger.info('some info!')
 logger.warn('warning')
