@@ -32,3 +32,4 @@ logger.error('First error!')
 // logger.error("First error!");
 logger.error('Second error!')
 logger.info('some info!')
+console.log("just something")
